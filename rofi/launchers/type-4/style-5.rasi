@@ -65,9 +65,9 @@ window {
     enabled:                     true;
     margin:                      0px;
     padding:                     0px;
-    border:                      0px solid;
+    border:                      2px solid;
     border-radius:               5px;
-    border-color:                @border-colour;
+    border-color:                #c4a7e7ee;
     cursor:                      "default";
     background-color:            @background-colour;
 }
